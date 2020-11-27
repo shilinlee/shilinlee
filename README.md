@@ -1,4 +1,4 @@
-### 🕛 Back to Chengdu, countdonw 9 days. 
+### 🕛 Back to Chengdu, countdonw 8 days. 
 
 - 🔭 I’m currently working on Go.
 
