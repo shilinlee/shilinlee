@@ -1,5 +1,6 @@
 ### 🕛 I'm in Chengdu now. 
 
+- 🌱 202001-202012 Cloud Container Engine(CCE).
 - 🔭 I’m currently working on Go and InfluxDB.
 
 <!--
