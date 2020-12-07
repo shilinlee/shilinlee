@@ -1,4 +1,4 @@
-### 🕛 Back to Chengdu, countdonw 0 days. 
+### 🕛 I'm in Chengdu now. 
 
 - 🔭 I’m currently working on Go and InfluxDB.
 
