@@ -1,6 +1,6 @@
-### 🕛 Back to Chengdu, countdonw 8 days. 
+### 🕛 Back to Chengdu, countdonw 0 days. 
 
-- 🔭 I’m currently working on Go.
+- 🔭 I’m currently working on Go and InfluxDB.
 
 <!--
 **shilinlee/shilinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
