@@ -4,6 +4,9 @@
 - 🔭  202101-202112 Go and InfluxDB.
 - 😄  202201-~ I’m currently working on [openGemini](https://github.com/openGemini/openGemini).
 
+![image](https://github.com/shilinlee/shilinlee/assets/22270117/0a4201fb-74cb-44f8-b9d0-7eb071af8765)
+
+
 <!--
 **shilinlee/shilinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
